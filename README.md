@@ -12,8 +12,8 @@ Soy un apasionado informático en constante aprendizaje y mejora. Actualmente tr
   - Actualmente me encuentro profundizando en mis conocimientos en **Java**, **JavaScript**, **Python** , **HTML5**, **CSS3**, **SQL** y **No SQL** entre otros.
     
 ## Otros datos
-Tengo un perro Akita Inu.
-Como hobby estoy escribiendo una novela de ciencia ficción.
+- Tengo un perro Akita Inu.
+- Como hobby estoy escribiendo una novela de ciencia ficción.
 
 
 ## Contacto
