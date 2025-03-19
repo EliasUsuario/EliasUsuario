@@ -4,13 +4,13 @@ Soy un apasionado informático en constante aprendizaje y mejora. Actualmente tr
 
 ## Sobre Mí
 - **Formación y Experiencia:**  
--**Curso “Google:Inteligencia Artificial y productividad”.
+-**Curso “Google:Inteligencia Artificial y productividad”.**
 - FP1 Equipos e instalaciones electrotécnicas.
 - **Otras formaciones:** 
 - Título socorrista acuático, carné instalador electricista, TIP de Vigilante de seguridad.
 - **Áreas de Estudio:**  
   - Actualmente me encuentro profundizando en mis conocimientos en **Java**, **JavaScript**, **Python** , **HTML5**, **CSS3**, **SQL** y **No SQL** entre otros.
-##Otros datos:##
+## Otros datos
 Tengo un perro Akita Inu.
 Como hobby estoy escribiendo una novela de ciencia ficción.
 
