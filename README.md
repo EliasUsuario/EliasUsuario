@@ -1,3 +1,4 @@
+![Entretenido](assets/Gif Elias.gif)
 # ¡Hola, bienvenido a mi perfil!
 
 Soy un apasionado informático en constante aprendizaje y mejora. Actualmente trabajo como Técnico de Protección contra Incendios y, a su vez, estoy cursando Grado DAM (Técnico Superior en desarrollo de aplicaciones multiplataforma) con Master de especialización en Data & Analytics. 
