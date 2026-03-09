@@ -33,9 +33,10 @@ Soy un apasionado de la tecnología en constante evolución. Actualmente compagi
 
 ### ✍️ Fuera del Código
 No todo es sintaxis y despliegues:
+* 🎓 **Formación Oficial:** Técnico en Equipos e Instalaciones Electrotécnicas (FP1).
+* 📜 **Acreditaciones Profesionales:** Carné de Instalador Electricista, TIP de Vigilante de Seguridad y Título de Socorrista Acuático.
 * 📖 Estoy escribiendo una **novela de ciencia ficción** (la creatividad ayuda a programar mejor).
 * 🐕 Comparto mis días con un **Akita Inu**.
-* ⚡ Tengo formación técnica diversa: desde electricidad hasta seguridad.
 
 ---
 
