@@ -41,7 +41,6 @@ No todo es sintaxis y despliegues:
 
 ### 🤝 Contacto
 * **GitHub:** [EliasUsuario](https://github.com/EliasUsuario)
-* **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-usuario) *(Te recomiendo añadirlo)*
 ### 🛠️ Tecnologías y Herramientas
 
 #### **Lenguajes de Programación**
