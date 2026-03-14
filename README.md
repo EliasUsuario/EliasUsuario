@@ -7,7 +7,8 @@ Soy un apasionado de la tecnología en constante evolución. Actualmente compagi
 
 * 🎓 **Estudiante de DAM** (Desarrollo de Aplicaciones Multiplataforma).
 * 📊 **Especialización:** Máster en Data & Analytics.
-* 🤖 **Certificado por Google** en IA y Productividad.
+* 🤖 **Certificado por Santander Open academy** en Google: IA y Productividad.
+* ​🔐​ **Certificado por Santander Open academy** en Protección de datos y privacidad.
 
 ---
 
