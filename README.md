@@ -43,6 +43,7 @@ No todo es sintaxis y despliegues:
 
 ### 🤝 Contacto
 * **GitHub:** [EliasUsuario](https://github.com/EliasUsuario)
+* **Linkedin:** [perfil-elias-martinez](https://www.linkedin.com/in/perfil-elias-martinez/)
 ### 🛠️ Tecnologías y Herramientas
 
 #### **Lenguajes de Programación**
@@ -59,4 +60,4 @@ No todo es sintaxis y despliegues:
 ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ---
-*Última actualización: 9 de marzo de 2026*
+*Última actualización: 3 de abril de 2026*
